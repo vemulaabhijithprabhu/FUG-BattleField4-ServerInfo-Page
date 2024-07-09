@@ -1,0 +1,1419 @@
+.menuBackgroundIcon {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: scale(1.017);
+}
+.wrapperMenuBackground {
+  position: absolute;
+  top: -868.4px;
+  left: -2241.1px;
+  width: 6297.4px;
+  height: 3542.3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.menuDarkerBg {
+  position: absolute;
+  top: -13.7px;
+  left: -20.4px;
+  background-color: #000c13;
+  width: 1952.5px;
+  height: 1113.3px;
+  opacity: 0.6;
+}
+.sideMenuLine {
+  position: absolute;
+  top: -0.5px;
+  left: 84.1px;
+  border-right: 1px solid rgba(255, 255, 255, 0.15);
+  box-sizing: border-box;
+  width: 1px;
+  height: 1081px;
+}
+.sideMenuMisc {
+  position: absolute;
+  top: 957.5px;
+  left: 44px;
+  width: 77px;
+  height: 69.5px;
+}
+.browserSiNextW,
+.sideMenu {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  width: 121px;
+  height: 1080px;
+}
+.browserSiNextW {
+  top: 1006.8px;
+  left: 129.4px;
+  width: 1380px;
+  height: 178px;
+}
+.mapRotation {
+  position: absolute;
+  top: 89.92%;
+  left: 6.74%;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.menuMultiplayerServerBrowChild {
+  position: absolute;
+  top: 1048.5px;
+  left: 129.4px;
+  background: linear-gradient(180deg, rgba(16, 16, 16, 0), #00657b);
+  width: 1381.7px;
+  height: 51px;
+}
+.div,
+.rules,
+.tickets {
+  position: absolute;
+  top: 0;
+  text-transform: uppercase;
+}
+.rules {
+  left: 5.12%;
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.07em;
+  font-weight: 600;
+}
+.div,
+.tickets {
+  left: 0;
+  letter-spacing: 0.04em;
+  font-weight: 500;
+}
+.div {
+  left: 90.49%;
+  color: var(--color-yellow);
+  text-align: right;
+}
+.browserSiTickers {
+  position: absolute;
+  height: 77.22%;
+  width: 87.65%;
+  top: 0;
+  right: 7.25%;
+  bottom: 22.78%;
+  left: 5.09%;
+}
+.browserSiTickersWChild {
+  position: absolute;
+  top: 26px;
+  left: 0;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 325px;
+  height: 1px;
+  opacity: 0.1;
+}
+.browserSiTickersW {
+  position: absolute;
+  height: 9.58%;
+  width: 100%;
+  top: 12.28%;
+  right: 0;
+  bottom: 78.14%;
+  left: 0;
+}
+.div1,
+.vehicleSpawnDelay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.div1 {
+  left: 94.01%;
+  color: var(--color-yellow);
+  text-align: right;
+}
+.browserSiVehicles {
+  position: absolute;
+  height: 77.22%;
+  width: 87.65%;
+  top: 0;
+  right: 7.25%;
+  bottom: 22.78%;
+  left: 5.09%;
+}
+.browserSiVehiclesWChild {
+  position: absolute;
+  top: 25.9px;
+  left: 0;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 325px;
+  height: 1px;
+  opacity: 0.1;
+}
+.browserSiVehiclesW {
+  position: absolute;
+  height: 9.58%;
+  width: 100%;
+  top: 23.46%;
+  right: 0;
+  bottom: 66.96%;
+  left: 0;
+}
+.bulletDamage,
+.div2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.div2 {
+  left: 91.55%;
+  text-align: right;
+}
+.browserSiBullet {
+  position: absolute;
+  height: 77.22%;
+  width: 87.65%;
+  top: 0;
+  right: 7.25%;
+  bottom: 22.78%;
+  left: 5.09%;
+}
+.browserSiBulletWChild {
+  position: absolute;
+  top: 25.9px;
+  left: 0;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 325px;
+  height: 1px;
+  opacity: 0.1;
+}
+.browserSiBulletW {
+  position: absolute;
+  height: 9.58%;
+  width: 100%;
+  top: 34.59%;
+  right: 0;
+  bottom: 55.83%;
+  left: 0;
+}
+.kickAfterTeam {
+  left: 0;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.browserSiKickt,
+.div3,
+.kickAfterTeam {
+  position: absolute;
+  top: 0;
+}
+.div3 {
+  left: 97.18%;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 500;
+  text-align: right;
+}
+.browserSiKickt {
+  height: 77.22%;
+  width: 87.65%;
+  right: 7.25%;
+  bottom: 22.78%;
+  left: 5.09%;
+}
+.browserSiKicktWChild {
+  position: absolute;
+  top: 26px;
+  left: 0;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 325px;
+  height: 1px;
+  opacity: 0.1;
+}
+.browserSiKicktW {
+  position: absolute;
+  height: 9.58%;
+  width: 100%;
+  top: 45.76%;
+  right: 0;
+  bottom: 44.65%;
+  left: 0;
+}
+.div4,
+.playerHealth {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.div4 {
+  left: 91.55%;
+  text-align: right;
+}
+.browserSiHealth {
+  position: absolute;
+  height: 77.22%;
+  width: 87.65%;
+  top: 0;
+  right: 7.25%;
+  bottom: 22.78%;
+  left: 5.09%;
+}
+.browserSiHealthWChild {
+  position: absolute;
+  top: 26px;
+  left: 0;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 325px;
+  height: 1px;
+  opacity: 0.1;
+}
+.browserSiHealthW {
+  position: absolute;
+  height: 9.58%;
+  width: 100%;
+  top: 56.94%;
+  right: 0;
+  bottom: 33.48%;
+  left: 0;
+}
+.div5,
+.playerRespawnTime {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.div5 {
+  left: 91.55%;
+  text-align: right;
+}
+.browserSiRespawn {
+  position: absolute;
+  height: 77.22%;
+  width: 87.65%;
+  top: 0;
+  right: 7.25%;
+  bottom: 22.78%;
+  left: 5.09%;
+}
+.browserSiRespawnWChild {
+  position: absolute;
+  top: 25.9px;
+  left: 0;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 325px;
+  height: 1px;
+  opacity: 0.1;
+}
+.browserSiRespawnW {
+  position: absolute;
+  height: 9.58%;
+  width: 100%;
+  top: 68.07%;
+  right: 0;
+  bottom: 22.35%;
+  left: 0;
+}
+.kickAfterIdle {
+  left: 0;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.browserSiKicki,
+.div6,
+.kickAfterIdle {
+  position: absolute;
+  top: 0;
+}
+.div6 {
+  left: 90.85%;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 500;
+  text-align: right;
+}
+.browserSiKicki {
+  height: 77.22%;
+  width: 87.65%;
+  right: 7.25%;
+  bottom: 22.78%;
+  left: 5.09%;
+}
+.browserSiKickiWChild {
+  position: absolute;
+  top: 26px;
+  left: 0;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 325px;
+  height: 1px;
+  opacity: 0.1;
+}
+.browserSiKickiW {
+  position: absolute;
+  height: 9.58%;
+  width: 100%;
+  top: 79.25%;
+  right: 0;
+  bottom: 11.17%;
+  left: 0;
+}
+.banAfterKicks {
+  left: 0;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.banAfterKicks,
+.browserSiBan,
+.div7 {
+  position: absolute;
+  top: 0;
+}
+.div7 {
+  left: 97.18%;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 500;
+  text-align: right;
+}
+.browserSiBan {
+  height: 77.22%;
+  width: 87.65%;
+  right: 7.25%;
+  bottom: 22.78%;
+  left: 5.09%;
+}
+.browserSiBanWChild {
+  position: absolute;
+  top: 26px;
+  left: 0;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 325px;
+  height: 1px;
+  opacity: 0.1;
+}
+.browserSiBanW,
+.browserSiRules {
+  position: absolute;
+  height: 9.58%;
+  width: 100%;
+  top: 90.42%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.browserSiRules {
+  height: 69.13%;
+  width: 31.52%;
+  top: 0;
+  bottom: 30.87%;
+  left: 68.48%;
+}
+.advanced,
+.minimap {
+  text-transform: uppercase;
+}
+.advanced {
+  position: absolute;
+  top: 0;
+  left: 5.12%;
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.07em;
+  font-weight: 600;
+}
+.minimap {
+  left: 0;
+  letter-spacing: 0.04em;
+  font-weight: 500;
+}
+.browserSiMinimap,
+.minimap,
+.on {
+  position: absolute;
+  top: 0;
+}
+.on {
+  left: 93.31%;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 500;
+  text-align: right;
+}
+.browserSiMinimap {
+  height: 77.22%;
+  width: 87.65%;
+  right: 7.25%;
+  bottom: 22.78%;
+  left: 5.09%;
+}
+.browserSiMinimapWChild {
+  position: absolute;
+  top: 26px;
+  left: 0;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 325px;
+  height: 1px;
+  opacity: 0.1;
+}
+.browserSiMinimapW {
+  position: absolute;
+  height: 6.62%;
+  width: 100%;
+  top: 8.49%;
+  right: 0;
+  bottom: 84.88%;
+  left: 0;
+}
+.onlySquadLeader {
+  left: 0;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.browserSiSquad,
+.off,
+.onlySquadLeader {
+  position: absolute;
+  top: 0;
+}
+.off {
+  left: 91.2%;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 500;
+  text-align: right;
+}
+.browserSiSquad {
+  height: 77.22%;
+  width: 87.65%;
+  right: 7.25%;
+  bottom: 22.78%;
+  left: 5.09%;
+}
+.browserSiSquadWChild {
+  position: absolute;
+  top: 25.9px;
+  left: 0;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 325px;
+  height: 1px;
+  opacity: 0.1;
+}
+.browserSiSquadW {
+  position: absolute;
+  height: 6.62%;
+  width: 100%;
+  top: 16.21%;
+  right: 0;
+  bottom: 77.16%;
+  left: 0;
+}
+.on1,
+.vehicles {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.on1 {
+  left: 93.31%;
+  text-align: right;
+}
+.browserSiVehicles1 {
+  position: absolute;
+  height: 77.22%;
+  width: 87.65%;
+  top: 0;
+  right: 7.25%;
+  bottom: 22.78%;
+  left: 5.09%;
+}
+.browserSiVehiclesWItem {
+  position: absolute;
+  top: 25.9px;
+  left: 0;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 325px;
+  height: 1px;
+  opacity: 0.1;
+}
+.browserSiVehiclesW1 {
+  position: absolute;
+  height: 6.62%;
+  width: 100%;
+  top: 23.91%;
+  right: 0;
+  bottom: 69.46%;
+  left: 0;
+}
+.on2,
+.teamBalance {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.on2 {
+  left: 93.31%;
+  text-align: right;
+}
+.browserSiBalance {
+  position: absolute;
+  height: 77.22%;
+  width: 87.65%;
+  top: 0;
+  right: 7.25%;
+  bottom: 22.78%;
+  left: 5.09%;
+}
+.browserSiBalanceWChild {
+  position: absolute;
+  top: 26px;
+  left: 0;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 325px;
+  height: 1px;
+  opacity: 0.1;
+}
+.browserSiBalanceW {
+  position: absolute;
+  height: 6.62%;
+  width: 100%;
+  top: 31.64%;
+  right: 0;
+  bottom: 61.74%;
+  left: 0;
+}
+.minimapSpotting,
+.on3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.on3 {
+  left: 93.31%;
+  text-align: right;
+}
+.browserSiMinimaps {
+  position: absolute;
+  height: 77.22%;
+  width: 87.65%;
+  top: 0;
+  right: 7.25%;
+  bottom: 22.78%;
+  left: 5.09%;
+}
+.browserSiMinimapsWChild {
+  position: absolute;
+  top: 26px;
+  left: 0;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 325px;
+  height: 1px;
+  opacity: 0.1;
+}
+.browserSiMinimapsW {
+  position: absolute;
+  height: 6.62%;
+  width: 100%;
+  top: 39.36%;
+  right: 0;
+  bottom: 54.02%;
+  left: 0;
+}
+.hud {
+  left: 0;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.browserSiHud,
+.hud,
+.on4 {
+  position: absolute;
+  top: 0;
+}
+.on4 {
+  left: 93.31%;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 500;
+  text-align: right;
+}
+.browserSiHud {
+  height: 77.22%;
+  width: 87.65%;
+  right: 7.25%;
+  bottom: 22.78%;
+  left: 5.09%;
+}
+.browserSiHudWChild {
+  position: absolute;
+  top: 25.9px;
+  left: 0;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 325px;
+  height: 1px;
+  opacity: 0.1;
+}
+.browserSiHudW {
+  position: absolute;
+  height: 6.62%;
+  width: 100%;
+  top: 47.06%;
+  right: 0;
+  bottom: 46.32%;
+  left: 0;
+}
+.on5,
+.pVehicleCam {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.on5 {
+  left: 93.31%;
+  text-align: right;
+}
+.browserSiVehiclecam {
+  position: absolute;
+  height: 77.22%;
+  width: 87.65%;
+  top: 0;
+  right: 7.25%;
+  bottom: 22.78%;
+  left: 5.09%;
+}
+.browserSiVehiclecamWChild {
+  position: absolute;
+  top: 26px;
+  left: 0;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 325px;
+  height: 1px;
+  opacity: 0.1;
+}
+.browserSiVehiclecamW {
+  position: absolute;
+  height: 6.62%;
+  width: 100%;
+  top: 54.78%;
+  right: 0;
+  bottom: 38.59%;
+  left: 0;
+}
+.on6,
+.regenerativeHealth {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.on6 {
+  left: 93.31%;
+  text-align: right;
+}
+.browserSiRegenerate {
+  position: absolute;
+  height: 77.22%;
+  width: 87.65%;
+  top: 0;
+  right: 7.25%;
+  bottom: 22.78%;
+  left: 5.09%;
+}
+.browserSiRegenerateWChild {
+  position: absolute;
+  top: 26px;
+  left: 0;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 325px;
+  height: 1px;
+  opacity: 0.1;
+}
+.browserSiRegenerateW {
+  position: absolute;
+  height: 6.62%;
+  width: 100%;
+  top: 62.51%;
+  right: 0;
+  bottom: 30.87%;
+  left: 0;
+}
+.killCam,
+.on7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.on7 {
+  left: 93.31%;
+  text-align: right;
+}
+.browserSiKillcam {
+  position: absolute;
+  height: 77.22%;
+  width: 87.65%;
+  top: 0;
+  right: 7.25%;
+  bottom: 22.78%;
+  left: 5.09%;
+}
+.browserSiKillcamWChild {
+  position: absolute;
+  top: 25.9px;
+  left: 0;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 325px;
+  height: 1px;
+  opacity: 0.1;
+}
+.browserSiKillcamW {
+  position: absolute;
+  height: 6.62%;
+  width: 100%;
+  top: 70.2%;
+  right: 0;
+  bottom: 23.17%;
+  left: 0;
+}
+.friendlyFire,
+.off1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.off1 {
+  left: 91.2%;
+  text-align: right;
+}
+.browserSiFriendly {
+  position: absolute;
+  height: 77.22%;
+  width: 87.65%;
+  top: 0;
+  right: 7.25%;
+  bottom: 22.78%;
+  left: 5.09%;
+}
+.browserSiFriendlyWChild {
+  position: absolute;
+  top: 25.9px;
+  left: 0;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 325px;
+  height: 1px;
+  opacity: 0.1;
+}
+.browserSiFriendlyW {
+  position: absolute;
+  height: 6.62%;
+  width: 100%;
+  top: 77.93%;
+  right: 0;
+  bottom: 15.45%;
+  left: 0;
+}
+.dSpotting,
+.on8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.on8 {
+  left: 93.31%;
+  text-align: right;
+}
+.browserSiSpotting {
+  position: absolute;
+  height: 77.22%;
+  width: 87.65%;
+  top: 0;
+  right: 7.25%;
+  bottom: 22.78%;
+  left: 5.09%;
+}
+.browserSiSpottingWChild {
+  position: absolute;
+  top: 26px;
+  left: 0;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 325px;
+  height: 1px;
+  opacity: 0.1;
+}
+.browserSiSpottingW {
+  position: absolute;
+  height: 6.62%;
+  width: 100%;
+  top: 85.65%;
+  right: 0;
+  bottom: 7.72%;
+  left: 0;
+}
+.enemyNameTags {
+  left: 0;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.browserSiEnemy,
+.enemyNameTags,
+.on9 {
+  position: absolute;
+  top: 0;
+}
+.on9 {
+  left: 93.31%;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 500;
+  text-align: right;
+}
+.browserSiEnemy {
+  height: 77.22%;
+  width: 87.65%;
+  right: 7.25%;
+  bottom: 22.78%;
+  left: 5.09%;
+}
+.browserSiEnemyWChild {
+  position: absolute;
+  top: 25.9px;
+  left: 0;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 325px;
+  height: 1px;
+  opacity: 0.1;
+}
+.browserSiAdvanced,
+.browserSiEnemyW {
+  position: absolute;
+  height: 6.62%;
+  width: 100%;
+  top: 93.38%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.browserSiAdvanced {
+  height: 100%;
+  width: 31.52%;
+  top: 0;
+  right: 34.25%;
+  left: 34.23%;
+}
+.on10,
+.punkbuster,
+.settings {
+  position: absolute;
+  top: 0;
+  text-transform: uppercase;
+}
+.settings {
+  left: 5.12%;
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.07em;
+  font-weight: 600;
+}
+.on10,
+.punkbuster {
+  left: 0;
+  letter-spacing: 0.04em;
+  font-weight: 500;
+}
+.on10 {
+  left: 93.31%;
+  text-align: right;
+}
+.browserSiPunkbuster {
+  position: absolute;
+  height: 77.22%;
+  width: 87.65%;
+  top: 0;
+  right: 7.25%;
+  bottom: 22.78%;
+  left: 5.09%;
+}
+.browserSiPunkbusterWChild {
+  position: absolute;
+  top: 25.9px;
+  left: 0;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 325px;
+  height: 1px;
+  opacity: 0.1;
+}
+.browserSiPunkbusterW {
+  position: absolute;
+  height: 14.4%;
+  width: 99.94%;
+  top: 35.26%;
+  right: 0.06%;
+  bottom: 50.33%;
+  left: 0;
+}
+.fairfight,
+.on11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.on11 {
+  left: 93.31%;
+  text-align: right;
+}
+.browserSiFairfight {
+  position: absolute;
+  height: 77.22%;
+  width: 87.65%;
+  top: 0;
+  right: 7.25%;
+  bottom: 22.78%;
+  left: 5.09%;
+}
+.browserSiFairfightWChild {
+  position: absolute;
+  top: 25.9px;
+  left: 0;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 325px;
+  height: 1px;
+  opacity: 0.1;
+}
+.browserSiFairfightW {
+  position: absolute;
+  height: 14.4%;
+  width: 99.94%;
+  top: 52%;
+  right: 0.06%;
+  bottom: 33.59%;
+  left: 0;
+}
+.off2,
+.password {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.off2 {
+  left: 91.2%;
+  text-align: right;
+}
+.browserSiPassword {
+  position: absolute;
+  height: 77.22%;
+  width: 87.65%;
+  top: 0;
+  right: 7.25%;
+  bottom: 22.78%;
+  left: 5.09%;
+}
+.browserSiPasswordWChild {
+  position: absolute;
+  top: 26px;
+  left: 0;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 325px;
+  height: 1px;
+  opacity: 0.1;
+}
+.browserSiPasswordW {
+  position: absolute;
+  height: 14.4%;
+  width: 99.94%;
+  top: 68.8%;
+  right: 0.06%;
+  bottom: 16.8%;
+  left: 0;
+}
+.normal,
+.preset {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.normal {
+  left: 79.58%;
+  text-align: right;
+}
+.browserSiPreset {
+  position: absolute;
+  height: 77.22%;
+  width: 87.65%;
+  top: 0;
+  right: 7.25%;
+  bottom: 22.78%;
+  left: 5.09%;
+}
+.browserSiPresetWChild {
+  position: absolute;
+  top: 26px;
+  left: 0;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 325px;
+  height: 1px;
+  opacity: 0.1;
+}
+.browserSiPresetW,
+.browserSiSettings {
+  position: absolute;
+  height: 14.4%;
+  width: 99.94%;
+  top: 85.6%;
+  right: 0.06%;
+  bottom: 0;
+  left: 0;
+}
+.browserSiSettings {
+  height: 45.98%;
+  width: 31.54%;
+  top: 0;
+  right: 68.46%;
+  bottom: 54.02%;
+}
+.browserSiSettingsW {
+  position: absolute;
+  top: 541.9px;
+  left: 130px;
+  width: 1027.9px;
+  height: 391px;
+  font-size: var(--font-size-base);
+}
+.ms {
+  position: absolute;
+  height: 72.8%;
+  width: 99.86%;
+  top: 27.39%;
+  left: 0;
+  letter-spacing: 0.06em;
+  font-weight: 600;
+  display: inline-block;
+}
+.browserSiPing,
+.ping {
+  position: absolute;
+  top: 0;
+}
+.ping {
+  height: 44.06%;
+  width: 53.52%;
+  left: 0;
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: inline-block;
+}
+.browserSiPing {
+  height: 100.38%;
+  width: 13.98%;
+  right: 43.74%;
+  bottom: -0.38%;
+  left: 42.28%;
+}
+.div8 {
+  position: absolute;
+  height: 73.08%;
+  width: 100%;
+  top: 26.92%;
+  left: 0;
+  letter-spacing: 0.06em;
+  font-weight: 600;
+  display: inline-block;
+}
+.browserSiPlayers,
+.players {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.players {
+  height: 44.23%;
+  width: 86.73%;
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: inline-block;
+}
+.browserSiPlayers {
+  height: 100%;
+  width: 16.32%;
+  right: 83.68%;
+  bottom: 0;
+}
+.hz,
+.tickrate {
+  position: absolute;
+  height: 73.08%;
+  width: 100%;
+  top: 32.69%;
+  left: 0;
+  letter-spacing: 0.06em;
+  font-weight: 600;
+  display: inline-block;
+}
+.tickrate {
+  height: 44.23%;
+  top: 0;
+  font-size: var(--font-size-lg);
+  text-transform: uppercase;
+}
+.browserSiCurrentStats,
+.browserSiTickrate {
+  position: absolute;
+  top: -2.7px;
+  left: 432.1px;
+  width: 98px;
+  height: 52px;
+}
+.browserSiCurrentStats {
+  top: 464px;
+  left: 130px;
+  width: 508px;
+  font-size: var(--font-size-11xl);
+}
+.httpsdiscordgg3r5nk4d,
+.serverProtectedBy {
+  margin: 0;
+}
+.conquestLarge,
+.serverProtectedByContainer {
+  position: absolute;
+  width: 105.66%;
+  top: 68.5%;
+  left: 0.01%;
+  letter-spacing: 0.03em;
+  font-weight: 600;
+  display: inline-block;
+  opacity: 0.8;
+}
+.conquestLarge {
+  width: 95.09%;
+  top: 0;
+  left: 4.91%;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.germanyFlagIcon {
+  position: absolute;
+  height: 34.78%;
+  width: 3.23%;
+  top: 39.13%;
+  right: 96.77%;
+  bottom: 26.09%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.browserSiInfo {
+  position: absolute;
+  height: 15.79%;
+  width: 62.67%;
+  top: 43.03%;
+  right: 37.33%;
+  bottom: 41.18%;
+  left: 0;
+}
+.nasaNoobs {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 36px;
+  letter-spacing: 0.06em;
+  font-weight: 600;
+}
+.browserSiIntro {
+  position: absolute;
+  top: 201.3px;
+  left: 129.9px;
+  width: 865px;
+  height: 145.7px;
+}
+.multiplayer,
+.serverInfo {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: var(--font-rajdhani);
+  color: var(--white);
+  text-align: left;
+  display: inline-block;
+}
+.serverInfo {
+  width: 86.11%;
+  top: 30.32%;
+  left: 36.98%;
+  font-size: 46px;
+  letter-spacing: 0.03em;
+}
+.multiplayer {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.06em;
+}
+.browserBreadcrumbPrevious1 {
+  position: absolute;
+  top: 4.8px;
+  left: 33px;
+  width: 110px;
+  height: 23px;
+}
+.div10,
+.div9,
+.serverBrowser {
+  position: absolute;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.serverBrowser {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 15.48%;
+  left: 50.51%;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  font-family: var(--font-rajdhani);
+  color: var(--white);
+  text-align: left;
+  display: inline-block;
+}
+.div10,
+.div9 {
+  top: 0;
+  left: 44.97%;
+  font-weight: 500;
+  opacity: 0.8;
+}
+.div10 {
+  left: 97.18%;
+}
+.back,
+.backIcon {
+  position: absolute;
+  left: 0;
+}
+.backIcon {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  opacity: 0.5;
+}
+.back {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 8.8px;
+  width: 7.2px;
+  height: 15.7px;
+}
+.browserBreadcrumb,
+.browserBreadcrumbPrevious {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 354.2px;
+  height: 31px;
+}
+.browserBreadcrumb {
+  top: 36.3px;
+  left: 131px;
+  height: 85.1px;
+  font-size: var(--font-size-5xl);
+}
+.menuMultiplayerServerBrow {
+  width: 100%;
+  position: relative;
+  background-color: var(--white);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--white);
+  font-family: var(--font-rajdhani);
+}
