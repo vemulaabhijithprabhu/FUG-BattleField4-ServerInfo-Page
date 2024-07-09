@@ -1,0 +1,34 @@
+.homeFriendLineIcon,
+.homeFriendPictureMaryjaneIcon {
+  position: absolute;
+  height: 99.8%;
+  top: 0;
+  bottom: 0.2%;
+  left: 0;
+  max-height: 100%;
+  width: 0;
+  object-fit: contain;
+}
+.homeFriendPictureMaryjaneIcon {
+  height: 100%;
+  width: 93.69%;
+  right: 0;
+  bottom: 0;
+  left: 6.31%;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.friendProfilePic {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 62.66%;
+  width: 98%;
+  top: 37.34%;
+  right: 0.2%;
+  bottom: 0;
+  left: 1.8%;
+}

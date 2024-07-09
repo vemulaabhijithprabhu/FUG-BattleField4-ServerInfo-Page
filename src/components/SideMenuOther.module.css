@@ -1,0 +1,33 @@
+.sideMenuCareerIcon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  opacity: 0.5;
+}
+.sideMenu,
+.sideMenuOther {
+  position: absolute;
+  width: 40px;
+}
+.sideMenu {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 0;
+  left: 0;
+  height: 40px;
+}
+.sideMenuOther {
+  top: 468.4px;
+  left: 18.1px;
+  height: 163.7px;
+}

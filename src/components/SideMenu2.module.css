@@ -1,0 +1,36 @@
+.sideMenuGameIcon {
+  position: absolute;
+  height: 100%;
+  width: 68.85%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 31.15%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  opacity: 0.8;
+}
+.sideMenuLineGame {
+  position: absolute;
+  height: 106.25%;
+  width: 5.16%;
+  top: -3.12%;
+  right: 97.42%;
+  bottom: -3.12%;
+  left: -2.58%;
+  border-right: 3px solid var(--orange);
+  box-sizing: border-box;
+}
+.sideMenu {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 128.1px;
+  left: 0;
+  width: 58.1px;
+  height: 48px;
+}

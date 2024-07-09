@@ -1,0 +1,42 @@
+.europeDe,
+.region {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.europeDe {
+  left: 69.37%;
+  text-align: right;
+}
+.browserSiRegion {
+  position: absolute;
+  height: 77.22%;
+  width: 87.65%;
+  top: 0;
+  right: 7.22%;
+  bottom: 22.78%;
+  left: 5.12%;
+}
+.statedefaultChild {
+  position: absolute;
+  height: 3.86%;
+  width: 100.31%;
+  top: 98.07%;
+  right: -0.15%;
+  bottom: -1.93%;
+  left: -0.15%;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  opacity: 0.1;
+}
+.statedefault {
+  width: 324px;
+  height: 25.9px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--white);
+  font-family: var(--font-rajdhani);
+}

@@ -1,0 +1,60 @@
+.groupIcon,
+.sideMenuQuit {
+  position: absolute;
+  left: 0;
+  overflow: hidden;
+}
+.groupIcon {
+  height: 100%;
+  width: 100%;
+  top: 100%;
+  right: 0;
+  bottom: -100%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.sideMenuQuit {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 72.73%;
+  width: 18.4%;
+  top: 13.64%;
+  right: 81.6%;
+  bottom: 13.64%;
+  opacity: 0.5;
+}
+.quit {
+  position: relative;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.sideMenuQuitPopup {
+  position: absolute;
+  height: 100%;
+  width: 53.99%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 46.01%;
+  background-color: var(--color-gray-200);
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-12xs) var(--padding-5xs);
+  box-sizing: border-box;
+}
+.sideMenuMisc {
+  position: absolute;
+  top: 47.5px;
+  left: 0;
+  width: 73.9px;
+  height: 22px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--white);
+  font-family: var(--font-rajdhani);
+}

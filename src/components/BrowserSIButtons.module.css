@@ -1,0 +1,79 @@
+.join {
+  position: absolute;
+  top: 29.46%;
+  left: 44.14%;
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: var(--font-rajdhani);
+  color: var(--white);
+  text-align: center;
+}
+.browserSiButtonsChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border: 1px solid var(--white);
+  box-sizing: border-box;
+  opacity: 0.2;
+}
+.browserSiButtons1,
+.browserSiButtonsWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 56px;
+}
+.browserSiButtons1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 324px;
+}
+.browserSiButtonsWrapper {
+  align-self: stretch;
+  position: relative;
+}
+.browserSiButtonsContainer,
+.browserSiButtonsInner,
+.frameWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  align-self: stretch;
+}
+.browserSiButtonsContainer,
+.browserSiButtonsInner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 344px;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.browserSiButtonsContainer {
+  cursor: pointer;
+  border: 0;
+  background-color: transparent;
+  left: 332px;
+}
+.browserSiButtons {
+  position: absolute;
+  top: 370.5px;
+  left: 121.4px;
+  width: 1172px;
+  height: 76px;
+}

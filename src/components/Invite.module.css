@@ -1,0 +1,84 @@
+.offline {
+  position: absolute;
+  height: 13.78%;
+  width: 21.96%;
+  top: 0;
+  right: 78.04%;
+  bottom: 86.22%;
+  left: 0;
+  border-radius: 50%;
+  border: 2px solid var(--white);
+  box-sizing: border-box;
+}
+.homeOffline,
+.onlineIcon {
+  position: absolute;
+  height: 25.66%;
+  width: 96.35%;
+  top: 74.28%;
+  right: 1.73%;
+  bottom: 0.06%;
+  left: 1.92%;
+}
+.onlineIcon {
+  height: 13.78%;
+  width: 21.96%;
+  top: 0;
+  right: 78.04%;
+  bottom: 86.22%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.homeOnline {
+  position: absolute;
+  height: 25.66%;
+  width: 96.35%;
+  top: 37.36%;
+  right: 1.73%;
+  bottom: 36.98%;
+  left: 1.92%;
+}
+.joinIcon,
+.squadIcon {
+  position: absolute;
+  height: 13.75%;
+  width: 21.96%;
+  top: 0;
+  right: 78.04%;
+  bottom: 86.25%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.joinIcon {
+  height: 62.5%;
+  width: 91.82%;
+  top: 37.5%;
+  right: 0;
+  bottom: 0;
+  left: 8.18%;
+  object-fit: cover;
+}
+.homeSquad {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 25.72%;
+  width: 96.35%;
+  top: 0.32%;
+  right: 1.73%;
+  bottom: 73.95%;
+  left: 1.92%;
+}
+.invite {
+  position: absolute;
+  top: 58.9px;
+  left: 1819px;
+  width: 52px;
+  height: 311px;
+}

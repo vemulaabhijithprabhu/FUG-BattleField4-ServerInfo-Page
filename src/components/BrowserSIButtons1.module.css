@@ -1,0 +1,48 @@
+.browserSiButtonsChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border: 1px solid var(--white);
+  box-sizing: border-box;
+  opacity: 0.2;
+}
+.div,
+.favoriteIcon {
+  position: absolute;
+  top: 29.46%;
+}
+.div {
+  left: 43.8%;
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: var(--font-rajdhani);
+  color: var(--white);
+  text-align: left;
+}
+.favoriteIcon {
+  height: 42.86%;
+  width: 14.46%;
+  right: 58.55%;
+  bottom: 27.68%;
+  left: 26.99%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.browserSiButtons {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 10px;
+  left: 1006px;
+  width: 166px;
+  height: 56px;
+}
